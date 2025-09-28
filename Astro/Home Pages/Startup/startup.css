@@ -802,7 +802,6 @@ menu-toggle:checked + .menu-icon .open-icon {
 /*frauently asked questions*/
 .QUESTIONS{
   width: 100vw;
-  height: 100vh;
   background-color: #030520;
   font-family: sans-serif;
 }
@@ -1058,9 +1057,6 @@ menu-toggle:checked + .menu-icon .open-icon {
     width: 9rem;
     height: 5vh;
   }
-}
-@media (max-widt: 660px){
-
 }
 /* Extra small screens (phones <480px) */
 @media (max-width: 480px) {

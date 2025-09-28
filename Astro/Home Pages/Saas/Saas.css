@@ -1683,9 +1683,7 @@ transition: background 0.3s ease;
   margin-top: 0.5rem;
 }
 
-/* --- MEDIA QUERIES --- */
 
-/* Tablets: 2 blogs per row */
 @media (max-width: 992px) {
   .blog-1,
   .blog-2,

@@ -774,23 +774,6 @@ menu-toggle:checked + .menu-icon .open-icon {
   border-left: 1px solid gray;
 }
 
-.download-icon svg,
-.Users-icon svg,
-.Reviews-icons svg {
-  font-size: clamp(5rem, 4vw, 3rem);
-  color: #0361F0;
-}
-
-.download-icon,
-.Users-icon,
-.Reviews-icons {
-  display: flex;
-  justify-content: center;
-  align-items: center;
-  width: 100%;
-  height: auto;
-  margin-bottom: 0.5rem;
-}
 
 /* 📱 Mobile tweaks */
 @media (max-width: 768px) {
